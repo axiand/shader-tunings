@@ -1,3 +1,5 @@
+# **[Download here](https://github.com/axiand/shader-tunings/releases/latest)**
+
 # What are these?
 These are tunings for Minecraft shaders. I made these for my personal use, but I've uploaded them here so that you too can use them.
 
