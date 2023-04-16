@@ -20,10 +20,20 @@ Shader: [Complementary](https://www.curseforge.com/minecraft/customization/compl
 
 Made to be lifelike, with colors that let your eyes rest while also not being boring. This one's the perfect choice if you want a realistic look without too much exaggeration. It's also my personal favourite.
 
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Gentle%20Morning.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Gentle%20Daytime.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Gentle%20Evening.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Gentle%20Midnight.png)
+
 ## Bright Day
 Shader: [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
 This one makes the colors pop. It's saturated and bright, making it a good pick for colorful, vibrant scenes.
+
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Bright%20Day%20Morning.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Bright%20Day%20Daytime.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Bright%20Day%20Evening.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Bright%20Day%20Midnight.png)
 
 ## Dreamy Tone
 Shader: [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
@@ -31,22 +41,47 @@ Shader: [Complementary](https://www.curseforge.com/minecraft/customization/compl
 Like looking at the world through a pair of rose-tinted glasses, this tuning is fit for those aesthetic scenes.
 Note: This tuning makes the nights almost completely dark.
 
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Morning.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Daytime.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Evening.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Night.png)
+
 ## Dreamy Tone Alt
 Shader: [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
 A brighter, slightly less rose-tinted version of Dreamy Tone. Good for aesthetic-but-slightly-less scenes.
+
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Alt%20Morning.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Alt%20Daytime.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Alt%20Evening.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Dreamy%20Tone%20Alt%20Midnight.png)
 
 ## Overcast
 Shader: [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
 A highly desaturated, bleak tuning for grim scenes. That or winter scenes.
 
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Overcast%20Morning.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Overcast%20Daytime.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Overcast%20Evening.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Overcast%20Night.png)
+
 ## Summer Day
 Shader: [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
 Bask in the golden sunlight with this warm tuning. Featuring semi-saturated warm colors throughout the whole day. Caution: hot!
 
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Summer%20Day%20Morning.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Summer%20Day%20Daytime.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Summer%20Day%20Evening.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Summer%20Day%20Night.png)
+
 ## Vibrance
 Shader: [Complementary](https://www.curseforge.com/minecraft/customization/complementary-shaders)
 
 This tuning is pretty much the default settings of Complementary but adjusted for myself. Vibrant tones, sunrays and bright daytime galore.
+
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Vibrance%20Morning.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Vibrance%20Daytime.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Vibrance%20Evening.png)
+![](https://raw.githubusercontent.com/axiand/shader-tunings/screenshots/screenshots/Vibrance%20Midnight.png)
