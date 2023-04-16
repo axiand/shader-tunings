@@ -13,7 +13,7 @@ Sure! These tunings are released into the public domain. It means you can use th
 These tunings are set up in such a way where caves and unlit areas are pitch-black. While this is good for cinematic shots, it might be bad for regular gameplay unless you have lots of torches on you.
 
 # Installation
-Download whichever tunings you want. Open settings > video settings > shader packs > [whichever pack the tuning uses] > shader pack settings. Then, finally, locate and click the Import settings button. It looks like a download icon. Select the tuning file you downloaded, and you're all set.
+Download whichever tunings you want. Open settings > video settings > shader packs > [whichever pack the tuning uses] > shader pack settings. Then, finally, locate and click the Import settings button. It looks like a download icon. Select the tuning file you downloaded (a specific .txt, not the entire zip archive!), and you're all set.
 
 # List of Tunings
 
