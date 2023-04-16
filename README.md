@@ -15,6 +15,9 @@ These tunings are set up in such a way where caves and unlit areas are pitch-bla
 # Installation
 Download whichever tunings you want. Open settings > video settings > shader packs > [whichever pack the tuning uses] > shader pack settings. Then, finally, locate and click the Import settings button. It looks like a download icon. Select the tuning file you downloaded (a specific .txt, not the entire zip archive!), and you're all set.
 
+# Compatibility
+Compatibility for Complementary-based packs (such as Reimagined) is untested. It might work, it might not. Only one way to find out.
+
 # List of Tunings
 
 ## Gentle
